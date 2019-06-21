@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/jaylee/JayDev/JayCoding/EclipseEE/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2336932928.index
+742328516.index
+2710363012.index
+2717968494.index
+3458945813.index
+1805569355.index
